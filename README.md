@@ -21,12 +21,12 @@ A versatile malware detection tool using machine learning algorithms.
 A comprehensive finance management system for personal budgets.
 
 ### 💼 Technical Skills
-- **Languages:** JavaScript, Python, Java, C#
-- **Frameworks:** React, Node.js, Django, .NET
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks:** React, Express.js, Django, React Native
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, GitHub Actions
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **Cloud:** AWS, Azure
-- **Security:** Penetration Testing, OWASP, Threat Modeling
+- **Security:** Penetration Testing, OWASP, Malware analysis
 
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/omar-hussein-329aa9229/)
