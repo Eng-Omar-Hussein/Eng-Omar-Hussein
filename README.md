@@ -11,15 +11,26 @@ I’m passionate about building robust applications and ensuring the security of
 - JavaScript | Node.js | React | Flask | Docker | Kubernetes | AWS | GitHub
 
 ### 🌟 Featured Projects
-- [Project 1](https://github.com/username/project1) - Description of project 1.
-- [Project 2](https://github.com/username/project2) - Description of project 2.
+#### [Chat-Ink](https://github.com/Eng-Omar-Hussein/Chat-Ink)
+A chat application that integrates secure messaging with modern UI.
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eng-Omar-Hussein&show_icons=true&theme=radical)
+#### [Malware-Scanner](https://github.com/Eng-Omar-Hussein/Malware-Scanner)
+A versatile malware detection tool using machine learning algorithms.
+
+#### [Personal_Finance_Management](https://github.com/Eng-Omar-Hussein/Personal_Finance_Management)
+A comprehensive finance management system for personal budgets.
+
+### 💼 Technical Skills
+- **Languages:** JavaScript, Python, Java, C#
+- **Frameworks:** React, Node.js, Django, .NET
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Cloud:** AWS, Azure
+- **Security:** Penetration Testing, OWASP, Threat Modeling
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/omar-hussein-329aa9229/)
+- [website](https://eng-omar-hussein.github.io/Omar_Hussein/)
 
 ### 👁️ Visitor Counter
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Eng-Omar-Hussein.Eng-Omar-Hussein)
