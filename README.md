@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile!
 
-![DevSecOps](https://media.giphy.com/media/3oEjI6SIIHBd3c8Y1m/giphy.gif)
+<div align="center" href="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybTJya2ZqZGFyM2lmZmNkM2thdnhuZ2p5OXA1dGJtcDNsM2hoMnI0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybTJya2ZqZGFyM2lmZmNkM2thdnhuZ2p5OXA1dGJtcDNsM2hoMnI0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif" alt="GIF">
+</div>
 
 ## 🚀 Full Stack Developer & DevSecOps Enthusiast
 
@@ -9,16 +11,6 @@ I’m passionate about building robust applications and ensuring the security of
 ### 🛠 Technologies & Tools
 
 - JavaScript | Node.js | React | Flask | Docker | Kubernetes | AWS | GitHub
-
-### 🌟 Featured Projects
-#### [Chat-Ink](https://github.com/Eng-Omar-Hussein/Chat-Ink)
-A chat application that integrates secure messaging with modern UI.
-
-#### [Malware-Scanner](https://github.com/Eng-Omar-Hussein/Malware-Scanner)
-A versatile malware detection tool using machine learning algorithms.
-
-#### [Personal_Finance_Management](https://github.com/Eng-Omar-Hussein/Personal_Finance_Management)
-A comprehensive finance management system for personal budgets.
 
 ### 💼 Technical Skills
 - **Languages:** JavaScript, Python, Java, C++
@@ -36,5 +28,3 @@ A comprehensive finance management system for personal budgets.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Eng-Omar-Hussein.Eng-Omar-Hussein)
 
 ---
-
-> Keep pushing the boundaries!
