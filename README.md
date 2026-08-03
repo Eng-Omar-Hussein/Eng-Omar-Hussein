@@ -1,16 +1,12 @@
 # Welcome to My GitHub Profile!
 
-<div align="center" href="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybTJya2ZqZGFyM2lmZmNkM2thdnhuZ2p5OXA1dGJtcDNsM2hoMnI0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybTJya2ZqZGFyM2lmZmNkM2thdnhuZ2p5OXA1dGJtcDNsM2hoMnI0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif" alt="GIF">
-</div>
-
 ## 🚀 Full Stack Developer & DevSecOps Enthusiast
 
 I’m passionate about building robust applications and ensuring the security of my code in every step of the development process!
 
 ### 🛠 Technologies & Tools
 
-- JavaScript | Node.js | React | Flask | Docker | Kubernetes | AWS | GitHub
+- JavaScript | Node.js | React | Python | Docker | Kubernetes | AWS | GitHub
 
 ### 💼 Technical Skills
 - **Languages:** JavaScript, Python, Java, C++
